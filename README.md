@@ -3,7 +3,7 @@ Corpus anlysis with spaCy
 
 https://programminghistorian.org/en/lessons/corpus-analysis-with-spacy
 
-Dataset corpus from Kaggle, edited and reducted by Yunchi
+Dataset of Sherlock Holmes stories are from Kaggle, edited and reducted by Yunchi
 
 https://www.kaggle.com/datasets/idevji1/sherlock-holmes-stories
 
