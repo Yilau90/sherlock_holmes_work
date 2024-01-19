@@ -7,4 +7,4 @@ Dataset of Sherlock Holmes stories are from Kaggle, edited and reducted by Yunch
 
 https://www.kaggle.com/datasets/idevji1/sherlock-holmes-stories
 
-*Due to the large size of corpus, after the reduction it is still huge for Google Colab to analyze, so only 1-31 stories were chosen for first attempt.
+*Due to the large size of corpus, after the reduction it is still huge for Google Colab to analyze, so only 1-3 stories were chosen for spaCy analysis.
