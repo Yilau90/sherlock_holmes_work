@@ -7,6 +7,7 @@ The primary audience for this corpus analysis includes researchers, linguists, a
 The texts included in the corpus were selected based on the works of Sir Arthur Conan Doyle's Sherlock Holmes series in digital format from online sources, more specifically from https://www.kaggle.com/datasets/idevji1/sherlock-holmes-stories, due to its large size not analysis available for spaCy and visualization suitable for Github, the dataset was reducted by Yunchi.
 ## Data Collection and Processing
 *See the detailed data collection process above in "text selection criteria".*
+
 For data processing, the texts underwent the following steps:
 1. Removal of metadata and non-textual elements;
 2. Standardization of text encoding to ensure uniformity;
